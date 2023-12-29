@@ -14,6 +14,6 @@ def calculate_sum_of_calibration_values(file_path):
     return total_sum
 
 # Use the function with the path to your file
-file_path = 'output.txt'  # Replace with the actual path to your file
+file_path = 'output.txt'
 result = calculate_sum_of_calibration_values(file_path)
 print("Sum of calibration values:", result)

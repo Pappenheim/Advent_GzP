@@ -34,6 +34,6 @@ def calculate_sum_with_corrected_digit_handling(file_path):
     return total_sum
 
 # Use the function with the path to your file
-file_path = 'input.txt'  # Replace with the actual path to your file
+file_path = 'input.txt'
 result = calculate_sum_with_corrected_digit_handling(file_path)
 print("Sum of calibration values:", result)

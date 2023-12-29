@@ -43,6 +43,6 @@ def analyze_games(file_path):
     return sum(possible_game_ids)
 
 # Use the function with the path to your file
-file_path = 'input.txt'  # Replace with the actual path to your file
+file_path = 'input.txt'
 result = analyze_games(file_path)
 print("Sum of the IDs of possible games:", result)
