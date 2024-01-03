@@ -1,3 +1,5 @@
-This repo is GzP work:
+This repo is the work of:
 
+Esad Hrbradovic
 Georg Pappenheim
+
