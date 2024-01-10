@@ -1,5 +1,5 @@
 This repo is the work of:
 
-Esad Hrbradovic
+Esad Hrbratovic
 Georg Pappenheim
 
